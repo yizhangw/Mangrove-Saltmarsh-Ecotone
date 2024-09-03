@@ -1,1 +1,2 @@
 # Mangrove-saltmarsh-Ecotone
+Mangrove-Saltmarsh-Ecotone is a modelling study investigating the effects of biotic interactions (i.e., competition and herbivory) on ecotone dynamics and the eco-morphodynamic feedback between tidal flow, vegetation dynamics, and morphological changes. The research has been published in Earth's Future and can be freely accessed through https://doi.org/10.1038/s41467-023-42733-1. To use the model, please follow the instructions on the Technical Document.
