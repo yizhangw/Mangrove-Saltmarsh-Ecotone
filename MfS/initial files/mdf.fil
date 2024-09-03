@@ -1,0 +1,47 @@
+Domain, Checked : No        
+     Grid                  : grd.grd
+     Grid enclosure        : grd.enc
+     Bathymetry            : dep.dep
+     Dry points            : none
+     Thin dams             : none
+
+Time frame, Checked : No        
+
+Processes, Checked : No        
+
+Initial conditions, Checked : No        
+
+Boundaries, Checked : Yes       
+     Boundary definitions  : bnd.bnd
+     Astronomical flow conditions : none
+     Astronomical corrections : none
+     Harmonic flow conditions : bch.bch
+     QH-relation flow conditions : none
+     Time series flow conditions : none
+     Transport conditions  : bcc.bcc
+
+Physical parameters, Checked : No        
+     Roughness coefficients : none
+     Hor. viscosity/diffusivity : none
+     Heat flux model data  : none
+     Sediment data         : sed.sed
+     Morphology data       : mor.mor
+     Uniform wind data     : none
+     Space varying wind data : none
+
+Numerical parameters, Checked : Yes       
+
+Operations, Checked : Yes       
+     Discharge definitions : none
+     Discharge data        : none
+     Dredging and dumping data : none
+
+Monitoring, Checked : Yes       
+     Observation points    : none
+     Drogues               : none
+     Cross-sections        : none
+
+Additional parameters, Checked : Yes       
+
+Output, Checked : Yes       
+     Fourier analysis data : none

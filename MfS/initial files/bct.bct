@@ -1,0 +1,13 @@
+table-name           'Boundary Section : 2'
+contents             'Uniform             '
+location             'southNeu            '
+time-function        'non-equidistant'
+reference-time       20221027
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'total discharge (t)  end A'               unit '[m3/s]'
+parameter            'total discharge (t)  end B'               unit '[m3/s]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  9.9999900e+002
+ 2.6208000e+005  0.0000000e+000  9.9999900e+002
