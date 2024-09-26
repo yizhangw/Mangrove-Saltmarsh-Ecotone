@@ -6,7 +6,7 @@ To use the model, please follow the instructions on the [Technical Document](Tec
 ## Highlights
 ###### 1. Eco-Morphodynamic Feedback Loop
 <p align="center" width="100%">
-    <img src="figs/fig1.jpg" width="400">
+    <img src="figs/fig1.png" width="400">
 </p>
 
 <div align="center">
