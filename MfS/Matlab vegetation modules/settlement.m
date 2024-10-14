@@ -35,7 +35,7 @@ if Root == 1 % Include mangrove roots in the model 23/10/2018
     trv_trd_root(:,13) = 1; % root diameter is a constant value, 1 cm
     % 11/10/2018  Drag coefficient of roots
     for nv = 1:num_veg_types
-        trv_trd_root(trv_trd_root(:,11)==nv,9) = Cd_root(nv);
+        trv_trd_root(trv_trd_root(:,11)==900,9) = Cd_root(nv);
     end
     % Combine stems with roots
     trv_trd                      = [trv_trd; trv_trd_root];
